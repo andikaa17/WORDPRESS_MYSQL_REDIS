@@ -4,7 +4,7 @@ Setup WordPress CMS menggunakan Docker Compose dengan MySQL sebagai database dan
 
 ## 1. Clone Repository
 
-- git clone https://github.com/username/wordpress-docker.git
+- git clone https://github.com/andikaa17/WORDPRESS_MYSQL_REDIS.git
 - cd wordpress-docker
 
   pastikan isinya sama seperti ini:
