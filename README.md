@@ -41,8 +41,11 @@ Buka browser dan akses:
 
 <img width="1919" height="1031" alt="Cuplikan layar 2026-03-12 033307" src="https://github.com/user-attachments/assets/13a8be87-7df5-449b-85c1-9f0a01829c69" />
 
-## 6. Setup Redis Object Cache
+## 6 . Redis CLI Ping Test
+- docker exec -it wordpress-docker-redis-1 redis-cli ping
+<img width="1128" height="73" alt="image" src="https://github.com/user-attachments/assets/a1a7ab23-81cd-48de-8723-5571d6648c05" />
 
+## 7. Setup Redis Object Cache
 - Di dashboard WordPress, klik Plugins -> Add New
 - Search: Redis Object Cache -> Install Now -> Activate
 
@@ -60,7 +63,7 @@ Buka browser dan akses:
 
 <img width="844" height="975" alt="Cuplikan layar 2026-03-12 034108" src="https://github.com/user-attachments/assets/7a579889-c19d-48c3-9dda-61c596896ef0" />
 
-## 7. Stop Stack
+## 8. Stop Stack
 
 - docker-compose down jika ingin dimatikan
 
