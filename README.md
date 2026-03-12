@@ -43,6 +43,7 @@ Buka browser dan akses:
 
 ## 6 . Redis CLI Ping Test
 - docker exec -it wordpress-docker-redis-1 redis-cli ping
+  (jika berhasil akan :PONG)
 <img width="1128" height="73" alt="image" src="https://github.com/user-attachments/assets/a1a7ab23-81cd-48de-8723-5571d6648c05" />
 
 ## 7. Setup Redis Object Cache
